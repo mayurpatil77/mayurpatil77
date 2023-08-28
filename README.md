@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mayurpatil77<br>- 👀 I’m interested in Building Web Apps<br>- 🌱 I’m currently learning MERN Stack <br>- 📫 How to reach me mayursanjaypatil7@gmail.com<br>- ⚡ Apart From Programming, I Love Reading Books & Make Projects Which Solve Problems <br>
+- 👋 Hi, I’m Mayur patil <br>- 👀 I’m interested in Building Web Apps<br>- 🌱 I’m currently learning MERN Stack <br>- 📫 How to reach me mayursanjaypatil7@gmail.com<br>- ⚡ Apart From Programming, I Love Reading Books & Make Projects Which Solve Problems <br>
 
 
 ## 🌐 Socials:
